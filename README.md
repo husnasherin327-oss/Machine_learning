@@ -4,6 +4,9 @@
 Welcome to my Machine Learning learning journey! 🚀
 This repository contains practical implementations of major ML algorithms — from scratch and using popular libraries like scikit-learn.
 Each folder/notebook is dedicated to one algorithm with clear explanations, preprocessing steps, visualization, metrics, and predictions.
+## 📂 Repository Structure
+
+```bash
 Machine-Learning-Algorithms/
 │
 ├── Supervised_Learning/
@@ -24,17 +27,9 @@ Machine-Learning-Algorithms/
 │   │
 │   ├── Classification/
 │   │   ├── Logistic_Regression/
-│   │   │   ├── logistic_regression.ipynb
-│   │   │   └── dataset.csv
 │   │   ├── KNN_Classifier/
-│   │   │   ├── knn_classifier.ipynb
-│   │   │   └── dataset.csv
 │   │   ├── SVM_Classifier/
-│   │   │   ├── svm_classifier.ipynb
-│   │   │   └── dataset.csv
 │   │   ├── Decision_Tree_Classifier/
-│   │   │   ├── decision_tree.ipynb
-│   │   │   └── dataset.csv
 │   │   ├── Random_Forest_Classifier/
 │   │   ├── Gradient_Boosting_Classifier/
 │   │   ├── XGBoost_Classifier/
@@ -48,7 +43,6 @@ Machine-Learning-Algorithms/
 │   │       └── Stacking/
 │
 ├── Unsupervised_Learning/
-│   │
 │   ├── Clustering/
 │   │   ├── KMeans_Clustering/
 │   │   ├── Hierarchical_Clustering/
@@ -72,4 +66,6 @@ Machine-Learning-Algorithms/
 │       └── Local_Outlier_Factor/
 │
 └── README.md
+```
+
 
