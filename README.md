@@ -13,8 +13,7 @@ Machine-Learning-Algorithms/
 │   │
 │   ├── Regression/
 │   │   ├── Linear_Regression/
-│   │   │   ├── linear_regression.ipynb
-│   │   │   └── dataset.csv
+│   │   │   
 │   │   ├── Polynomial_Regression/
 │   │   ├── Ridge_Regression/
 │   │   ├── Lasso_Regression/
